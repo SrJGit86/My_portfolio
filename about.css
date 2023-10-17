@@ -65,6 +65,7 @@ a {
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 25px 0;
     border: 2px solid aliceblue;
+    margin-bottom: 2rem;
 }
 
 .introduction p {
@@ -93,6 +94,7 @@ a {
     }
     .container {
         gap: 2rem;
+        overflow-y: scroll;
         /* height: 100%; */
     }
     .nav {
